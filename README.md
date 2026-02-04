@@ -21,3 +21,7 @@ Implementation of the **Merge Sort** algorithm in **ARM Cortex-M0+ Assembly**. T
 * **Stack Management**: Implements proper **PUSH/POP** operations for context preservation and **LR** handling.
 * **Memory Handling**: Allocates **temporary buffers** on the stack for merge operations.
 * **Naming Conventions**: Follows the required structure: `main`, `my_MergeSort`, and `my_Merge`.
+
+---
+
+> **Academic Note**: This project was developed as part of the BLG212E Microprocessor Systems course at Istanbul Technical University (ITU).
